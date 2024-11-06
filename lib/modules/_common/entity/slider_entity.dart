@@ -7,7 +7,7 @@ class SliderData {
 
   static List<SliderData> introSliderData = [
     SliderData(
-      titleText: 'Plan your trips',
+      titleText: 'Lên kế hoạch cho chuyến đi của bạn',
       subText: 'book one of your unique hotel to\nescape the ordinary',
       assetsImage: 'assets/images/introduction1.png',
     ),
